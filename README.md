@@ -1,7 +1,3 @@
-Header
+![Header](https://github.com/driewtonmai/driewtonmai/blob/main/assets/dino.gif)
 
-About me
-
-Languages and Tools
-
-Follow Me
+## Hi! My name is Tologon Omurzakov. I am a software engineer.
